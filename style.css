@@ -1,17 +1,17 @@
 body {
-  background-color: #FFFFED; /" warna hijau "/
-  font-family: Arial, sans-serif; /" 
-  color: #191970; /"
+  background-color: #FFFFED; /* warna hijau */
+  font-family: Arial, sans-serif; 
+  color: #191970;
 }
 
-.kartu profil {
+.kartu-profil
    width: 300px;
-  margin; 50 px auto;
+  margin: 50px auto;
   padding: 20px;
   background-color:white;
-  border-radius 15px /"
-  b0x-shadow:0 4px 8px rgba(0,0,0,0,1);/"
-  text-align: center; /" 
+  border-radius: 50%;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  text-align: center;
 }
 
 
